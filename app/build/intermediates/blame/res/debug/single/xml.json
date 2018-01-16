@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\gitwork\\keepProcessLiving\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "E:\\gitwork\\keepProcessLiving\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "E:\\gitwork\\keepProcessLiving\\app\\build\\intermediates\\res\\merged\\debug\\xml\\sync.xml",
+        "source": "E:\\gitwork\\keepProcessLiving\\app\\src\\main\\res\\xml\\sync.xml"
+    }
+]

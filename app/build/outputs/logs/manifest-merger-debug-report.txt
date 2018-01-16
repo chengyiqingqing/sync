@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SET_PROCESS_FOREGROUND
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:6:22-81
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:10:22-68
+application
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:12:5-93:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\shaowenwen\.android\build-cache\a2dfd78c023d0dfa53879f4dfacb2fb0ce8b813e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\shaowenwen\.android\build-cache\a26366578cc3f421cd5de7ae81fe8776e002f2df\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\shaowenwen\.android\build-cache\391bd9cee62a6a8d8cb98b133b12396013478887\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\shaowenwen\.android\build-cache\c557e4f63e0b5174c472bc7380d43912687d6773\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\shaowenwen\.android\build-cache\61998e5ab0d728413accd74037ceb43bcf8dd406\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\shaowenwen\.android\build-cache\c5abd8bcb3c22486785aa9e05e9eae387e2d7f4e\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\shaowenwen\.android\build-cache\981b7bc0a096e9425e1db5a87c6f90f34d6b4eb5\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\shaowenwen\.android\build-cache\eb7d1a7b9d954fee80619ebcf744de5661b2be5b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shaowenwen\.android\build-cache\fb7c3c3c81a20e8970bab72c7d0dbf78a8073f57\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:14:9-43
+	android:largeHeap
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:16:9-33
+	android:persistent
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:17:9-34
+	android:theme
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.sww.processproject.MainActivity
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.sww.processproject.OnePixActivity
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:27:9-40:20
+	android:windowIsTranslucent
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:33:13-47
+	android:screenOrientation
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:30:13-49
+	android:excludeFromRecents
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:35:13-46
+	android:windowBackground
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:31:13-66
+	android:launchMode
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:36:13-37
+	android:windowContentOverlay
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:34:13-49
+	android:finishOnTaskLaunch
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:37:13-46
+	android:theme
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:28:13-43
+service#com.sww.processproject.FirstService
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:41:9-45:39
+	android:enabled
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:43:13-35
+	android:process
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:45:13-37
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:42:13-41
+service#com.sww.processproject.SecondService
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:46:9-50:40
+	android:enabled
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:48:13-35
+	android:process
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:50:13-38
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:47:13-42
+service#com.sww.processproject.MyJobDaemonService
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:51:9-56:15
+	android:enabled
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:52:13-35
+	android:process
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:55:13-36
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:51:18-52
+service#com.sww.processproject.account.AccountAuthenticatorService
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:58:9-67:19
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:59:13-64
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:61:13-63:29
+action#android.accounts.AccountAuthenticator
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:62:17-80
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:62:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:64:13-66:57
+	android:resource
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:66:17-54
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:65:17-69
+service#com.sww.processproject.account.SyncService
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:69:9-84:19
+	android:process
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:72:13-36
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:70:13-48
+intent-filter#android.content.SyncAdapter
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:75:13-77:29
+action#android.content.SyncAdapter
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:76:17-70
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:76:25-67
+meta-data#android.content.SyncAdapter
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:80:13-82:48
+	android:resource
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:82:17-45
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:81:17-59
+provider#com.sww.processproject.account.AppAccountProvider
+ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:86:9-91:38
+	android:authorities
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:87:13-57
+	android:process
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:91:13-36
+	android:syncable
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml:88:13-55
+uses-sdk
+INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\shaowenwen\.android\build-cache\a2dfd78c023d0dfa53879f4dfacb2fb0ce8b813e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\shaowenwen\.android\build-cache\a26366578cc3f421cd5de7ae81fe8776e002f2df\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\shaowenwen\.android\build-cache\391bd9cee62a6a8d8cb98b133b12396013478887\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\shaowenwen\.android\build-cache\c557e4f63e0b5174c472bc7380d43912687d6773\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\shaowenwen\.android\build-cache\61998e5ab0d728413accd74037ceb43bcf8dd406\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\shaowenwen\.android\build-cache\c5abd8bcb3c22486785aa9e05e9eae387e2d7f4e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\shaowenwen\.android\build-cache\981b7bc0a096e9425e1db5a87c6f90f34d6b4eb5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\shaowenwen\.android\build-cache\eb7d1a7b9d954fee80619ebcf744de5661b2be5b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shaowenwen\.android\build-cache\fb7c3c3c81a20e8970bab72c7d0dbf78a8073f57\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwork\keepProcessLiving\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\shaowenwen\.android\build-cache\a2dfd78c023d0dfa53879f4dfacb2fb0ce8b813e\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\shaowenwen\.android\build-cache\a26366578cc3f421cd5de7ae81fe8776e002f2df\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\shaowenwen\.android\build-cache\391bd9cee62a6a8d8cb98b133b12396013478887\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\shaowenwen\.android\build-cache\c557e4f63e0b5174c472bc7380d43912687d6773\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\shaowenwen\.android\build-cache\61998e5ab0d728413accd74037ceb43bcf8dd406\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\shaowenwen\.android\build-cache\c5abd8bcb3c22486785aa9e05e9eae387e2d7f4e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\shaowenwen\.android\build-cache\981b7bc0a096e9425e1db5a87c6f90f34d6b4eb5\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\shaowenwen\.android\build-cache\eb7d1a7b9d954fee80619ebcf744de5661b2be5b\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\AndroidManifest.xml:27:13-51
